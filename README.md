@@ -1,4 +1,4 @@
-# Collaborating with Git and GitHub
+# Collaborating with Git and GitHub c
 
 ## Learning Goals
 
